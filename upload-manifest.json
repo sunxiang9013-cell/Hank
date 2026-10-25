@@ -1,0 +1,140 @@
+[
+  {
+    "path": "68.jpg",
+    "bytes": 295732,
+    "sha256": "a6ca9fb02e1bf708b1f7d2b0f55bb86541720be0cc2918a34b80db87a1af8311",
+    "storage": "repository"
+  },
+  {
+    "path": "7276b54c75664e308c23ccf4ba82db99.webp",
+    "bytes": 58476,
+    "sha256": "c55d5c34390d90734f0a1b478a96842841876bbee5abd38303ec95dea8c15d11",
+    "storage": "repository"
+  },
+  {
+    "path": "模型.zip",
+    "bytes": 7546069,
+    "sha256": "ebdc20e9e29c19bca93d548ad7982c4821165379a48f4e30d4fbd6694396e357",
+    "storage": "repository"
+  },
+  {
+    "path": "音乐陪练机器人硬件技术总结.md",
+    "bytes": 9627,
+    "sha256": "1ceb9707f2728ed413c0410b3e503f9b47d6e87889103a0b52a2199c79ee38f0",
+    "storage": "repository"
+  },
+  {
+    "path": "Codex 图像 2026年9月19日 12_43_29.png",
+    "bytes": 1069749,
+    "sha256": "715f05211368fac7e39d59a89cf5461e4972f70e99bbc9eaaaca958736f90497",
+    "storage": "repository"
+  },
+  {
+    "path": "download.png",
+    "bytes": 951288,
+    "sha256": "1dfc13a1361796f09f5ebbdda79b3c033c8ede00f0b7719fb9f4390eadd27af9",
+    "storage": "repository"
+  },
+  {
+    "path": "Music Practice Robot Hardware Architecture.png",
+    "bytes": 162128,
+    "sha256": "191f010fa67ad7a09591dfaf9e3a5474ae3b7025c5cddbc2cf3195f2da30bbb3",
+    "storage": "repository"
+  },
+  {
+    "path": "Music Practice Robot Hardware Technical Summary.pdf",
+    "bytes": 120197,
+    "sha256": "5e6f80bfc89213fc68b8dc8714c58d889812cdb1a7fdb5a2113f1eabb146e0e7",
+    "storage": "repository"
+  },
+  {
+    "path": "Music_Practice_Robot_Editable.pdf",
+    "bytes": 78832,
+    "sha256": "4c25a5fcc9a20f62a0da8c3c00f679070cdcd69209c312656e4c82b8e71cbda0",
+    "storage": "repository"
+  },
+  {
+    "path": "Coding/开发环境_已就绪.md",
+    "bytes": 2752,
+    "sha256": "54fca1482c760338f1ef1b16d66410424ffcab61b6fb1918fab0cf389af01f89",
+    "storage": "repository"
+  },
+  {
+    "path": "Coding/小智双板完整合并备份_20261005_先读我.md",
+    "bytes": 2691,
+    "sha256": "e9a5771cd94594b4843dbe400d4cec3edb79ae1cc5caefbbc092bfc7e4ad9904",
+    "storage": "repository"
+  },
+  {
+    "path": "Coding/小智双板完整合并备份_20261005.zip",
+    "bytes": 1026578810,
+    "sha256": "c052befa718ea6052f7b2ae2c1f47293a969650f8cc562028c38a8929bed0a28",
+    "storage": "release:backup-20261005"
+  },
+  {
+    "path": "模型/机器人.3dm",
+    "bytes": 3495552,
+    "sha256": "1d5f1c96b78f96c780c3a16b507c262cb4bc8255f9ee2523d5a9b56e265dddab",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/机器人N01.3dm",
+    "bytes": 6133726,
+    "sha256": "ee7ab402a83613c48c224faa822de2ba11d6992f1830529984550638f3f98136",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/waveshare-43-model_files/1442865-waveshare-43-76f80aae-8ab6-49b1-b2c8-7ebc97b77442.pdf",
+    "bytes": 412167,
+    "sha256": "fb31cafc760f1249bb8a09e980ff0f2635b569471a0d147f7828c13ed4cc7af1",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/waveshare-43-model_files/bottom.step",
+    "bytes": 70030,
+    "sha256": "eb40d2b3973ef52248a237d3603787096687001100ecde1323184e4107ece46b",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/waveshare-43-model_files/bottom.stl",
+    "bytes": 330384,
+    "sha256": "284f534d265b0bcb18c562ee5b0749831d80c2797eb27a9c056bd3de41768c82",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/waveshare-43-model_files/frame.step",
+    "bytes": 194575,
+    "sha256": "d423b2751064c4d31afc7ec6b8fe87d3a1569e4d840173f696ce22f62892302c",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/waveshare-43-model_files/frame.stl",
+    "bytes": 403684,
+    "sha256": "5a6cbf2270bf0decd890c25d11b243830d6afa704b941bed862775cab9ae0056",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/鑫辉标准舵机图纸/标准25T舵盘.step",
+    "bytes": 523916,
+    "sha256": "bbc9e93ed5e5010c0bfe6015d4c9c5621552e9c6cce6d2c68b141e53926b2553",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/鑫辉标准舵机图纸/标准25T舵盘(1).step",
+    "bytes": 523916,
+    "sha256": "bbc9e93ed5e5010c0bfe6015d4c9c5621552e9c6cce6d2c68b141e53926b2553",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/鑫辉标准舵机图纸/标准舵机含舵盘3D.step",
+    "bytes": 1624264,
+    "sha256": "2c05d26c04177577e068f580e786c7a8c59bd4683e17eeca1b557de9b4d9da50",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/鑫辉标准舵机图纸/标准舵机含舵盘3D(1).step",
+    "bytes": 1624264,
+    "sha256": "2c05d26c04177577e068f580e786c7a8c59bd4683e17eeca1b557de9b4d9da50",
+    "storage": "repository"
+  }
+]
